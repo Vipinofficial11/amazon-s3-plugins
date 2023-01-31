@@ -116,7 +116,7 @@
     <dependency>
       <groupId>io.cdap.cdap</groupId>
       <artifactId>hydrator-test</artifactId>
-      <version>${cdap.version}</version>
+      <version>6.8.0</version>
       <scope>provided</scope>
       <exclusions>
         <exclusion>
